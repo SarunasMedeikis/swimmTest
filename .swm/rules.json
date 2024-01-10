@@ -1,0 +1,20 @@
+{
+    "rules": {
+        "7ef046f8-e75f-41b5-83f6-63e27c018c3d": {
+            "name": "Shape Class Constructors\n",
+            "rule": {
+                "type": "regex",
+                "regex": "new\\sShape\\(\\)"
+            },
+            "actions": {
+                "ide": {
+                    "doc_id": "wjbue2l1",
+                    "message": "When a dev is working with the Shape class constructors, I want them to find this document because it explains the available constructors and their usage."
+                }
+            }
+        }
+    },
+    "view_order": [
+        "7ef046f8-e75f-41b5-83f6-63e27c018c3d"
+    ]
+}
