@@ -10,4 +10,11 @@ public class WebtestApplication {
 		SpringApplication.run(WebtestApplication.class, args);
 	}
 
+	public void test(){
+		Shape shape = new Shape("shape", "red");
+		shape.getArea();
+		Square square = new Square("square", "blue", 5);
+		square.getArea();
+	}
+
 }
