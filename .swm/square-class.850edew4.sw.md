@@ -3,7 +3,7 @@ title: Square class
 ---
 ### &nbsp;Square var
 
-Klasė square turi method overriding:
+Klasė  square turi method overriding:
 
 <SwmSnippet path="/src/main/java/lt/test/webtest/Square.java" line="22" collapsed>
 
@@ -28,6 +28,23 @@ Kvadratas turi savo atskira var <SwmToken path="/src/main/java/lt/test/webtest/S
 
 &nbsp;
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;Aprašytas funkcionalumas <SwmToken path="/src/main/java/lt/test/webtest/Shape.java" pos="7:5:5" line-data="    public String getName() {">`getName`</SwmToken>
+
+<SwmSnippet path="/src/main/java/lt/test/webtest/Shape.java" line="7">
+
+---
+
+This code snippet defines a method called `getName` which returns a `String` value stored in the variable `name`.
+
+```java
+    public String getName() {
+        return name;
+    }
+
+```
+
+---
+
+</SwmSnippet>
 
 <SwmMeta version="3.0.0" repo-id="Z2l0aHViJTNBJTNBc3dpbW1UZXN0JTNBJTNBU2FydW5hc01lZGVpa2lz" repo-name="swimmTest"><sup>Powered by [Swimm](https://app.swimm.io/)</sup></SwmMeta>
