@@ -15,6 +15,8 @@ public class WebtestApplication {
 		shape.getArea();
 		Square square = new Square("square", "blue", 5);
 		square.getArea();
+		Shape shape1 = new Shape();
+		shape1.setName("shape1");
 	}
 
 }
