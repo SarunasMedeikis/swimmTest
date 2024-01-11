@@ -9,7 +9,9 @@ xxx
 
 ### Funkcionalumai:
 
-- <SwmToken path="/src/main/java/lt/test/webtest/WebtestApplication.java" pos="13:5:7" line-data="	public void test(){">`test()`</SwmToken> metodas sukuria <SwmToken path="/src/main/java/lt/test/webtest/WebtestApplication.java" pos="14:1:1" line-data="		Shape shape = new Shape(&quot;shape&quot;, &quot;red&quot;);">`Shape`</SwmToken> ir <SwmToken path="/src/main/java/lt/test/webtest/WebtestApplication.java" pos="16:1:1" line-data="		Square square = new Square(&quot;square&quot;, &quot;blue&quot;, 5);">`Square`</SwmToken>
+[JIRA](https://jira.registrucentras.lt)
+
+- metodas sukuria <SwmToken path="/src/main/java/lt/test/webtest/WebtestApplication.java" pos="14:1:1" line-data="		Shape shape = new Shape(&quot;shape&quot;, &quot;red&quot;);">`Shape`</SwmToken> ir <SwmToken path="/src/main/java/lt/test/webtest/WebtestApplication.java" pos="16:1:1" line-data="		Square square = new Square(&quot;square&quot;, &quot;blue&quot;, 5);">`Square`</SwmToken>
 
 <SwmSnippet path="src/main/java/lt/test/webtest/WebtestApplication.java" line="13">
 
